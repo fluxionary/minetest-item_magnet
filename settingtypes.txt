@@ -1,0 +1,1 @@
+item_magnet.radius (item magnet radius) int 2
