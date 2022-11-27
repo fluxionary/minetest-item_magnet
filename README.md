@@ -1,5 +1,5 @@
-A very simple tool for picking up items from the ground in minetest, 
-without having to click on each item. 
+A very simple tool for picking up items from the ground in minetest,
+without having to click on each item.
 
 Comes with a configurable radius.
 
