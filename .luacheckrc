@@ -650,5 +650,6 @@ stds.item_magnet = {
 		"item_magnet",
 	},
 	read_globals = {
+		"fmod",
 	},
 }

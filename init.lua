@@ -1,3 +1,5 @@
+item_magnet = fmod.create()
+
 local radius = math.max(tonumber(minetest.settings:get("item_magnet.radius")) or 2, 1)
 
 minetest.register_tool("item_magnet:magnet", {
