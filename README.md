@@ -3,7 +3,7 @@ without having to click on each item.
 
 Comes with a configurable radius.
 
-license: AGPL
+license: LGPL
 
 resource license:
 * item_magnet_magnet.png CC0 from https://purepng.com/photo/20580/clipart-magnet
